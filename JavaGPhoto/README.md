@@ -1,4 +1,4 @@
-# GPhoto2 Java Bindings
+# GPhoto2 Java
 
 Java bindings for Linux using gphoto/gphoto2 library 
 
